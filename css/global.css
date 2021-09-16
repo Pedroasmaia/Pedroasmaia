@@ -1,0 +1,64 @@
+:root{
+    --title:'Stint Ultra Expanded', cursive;
+    --black: #1b1726;
+    --darkblue: #2a2773;
+    --gray: #585858;
+    --purpleblue: #263973;
+    --ice: #F2F2F2;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--purpleblue);
+    color: var(--ice);
+    font-family: var(--title);
+    min-width: 100vw;
+    max-width: 100vw;
+    min-height: 10vh;
+    max-height: 10vh;
+}
+.big_logo{
+    display: flex;
+    align-items: center;
+    margin: 0 10vw;
+}
+.logo{
+    width: 5vw;
+    filter: invert(1);
+}
+.logo:hover{
+    width: 5vw;
+    filter: invert(0);
+}
+.menu{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin: 0 18vw;
+}
+.menu li{
+    /*border-left: 0.2rem solid white;
+    border-right: 0.2rem solid white;*/
+    padding: 2vw;
+}
+.menu a{
+    color: var(--ice);
+    text-decoration: none;  
+}
+.menu a:hover{
+    color: var(--darkblue);
+    filter: brightness(1.9);
+}
+.content{
+    display: flex;
+    margin: auto 0.5vw;
+}
+.left{
+    width: 75vw;
+}
+.left_profile_bg{
+    height: 30vh;
+    background-image: url(../img/bg_profile.jpg);
+    background-position: top;
+    background-size: cover;
+}
