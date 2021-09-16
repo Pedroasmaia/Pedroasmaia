@@ -3,19 +3,20 @@
     --black: #1b1726;
     --darkblue: #2a2773;
     --gray: #585858;
-    --purpleblue: #263973;
+    --bg: #263973;
     --ice: #F2F2F2;
 }
 .top{
+    background-color: var(--bg);
     display: flex;
     justify-content: space-between;
-    background-color: var(--purpleblue);
     color: var(--ice);
     font-family: var(--title);
     min-width: 100vw;
     max-width: 100vw;
     min-height: 10vh;
     max-height: 10vh;
+    border-bottom: solid 1px var(--ice);
 }
 .big_logo{
     display: flex;
@@ -52,6 +53,7 @@
 .content{
     display: flex;
     margin: auto 0.5vw;
+    background-color: white;
 }
 .left{
     width: 75vw;
@@ -61,4 +63,10 @@
     background-image: url(../img/bg_profile.jpg);
     background-position: top;
     background-size: cover;
+}
+#photoperfil{
+    height: 25vh;
+    border-radius: 50% 50%;
+    margin: 6vh auto;
+    border: 1px solid var(--ice);
 }
