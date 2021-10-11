@@ -1,8 +1,7 @@
 # Olá, Meu nome é Pedro Augusto🙋‍♂️
 <div>
   <a href="https://github.com/pedroasmaia"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroasmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasmaia&layout=compact&langs_count=7&theme=dark"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasmaia&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div class"dev">
 <h2>Tecnologias que eu me interesso:</h2>
