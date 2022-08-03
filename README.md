@@ -10,7 +10,11 @@
     <a href="https://docs.microsoft.com/pt-br/users/pedroasmaia/">Microsoft Learning</a> 
   </p>
   <p align="center">
-    <img src="http://code.benco.io/icon-collection/azure-patterns/azure-pipelines.svg">
+    <h2>Tecnologias que utilizo:</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="150px" alt="Grafana"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="150px" alt="Azure"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="150px" alt="Python"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="150px" alt="Terraform"/>
   </p>
   </div>
 <hr>
