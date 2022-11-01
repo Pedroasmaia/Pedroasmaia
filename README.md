@@ -1,20 +1,30 @@
-<div align="center" id="top">
-  <img src="https://docs.microsoft.com/en-us/media/learn/home/learn_background_dark.png?branch=main" alt="MicrosoftLearning" height="250px"/>
-</div>
-<h1 align="center">Pedro Maia</h1>
-<div style="">
-  <div style="margin: 0 auto">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/pedroasmaia/">LinkedIn</a> &#xa0; | &#xa0;
-    <a href="https://github.com/Pedroasmaia">Github</a> &#xa0; | &#xa0;
-    <a href="https://docs.microsoft.com/pt-br/users/pedroasmaia/">Microsoft Learning</a> 
-  </p>
-  <p align="center">
-    <h2>Tecnologias que utilizo:</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50px" alt="Grafana"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px" alt="Azure"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50px" alt="Python"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50px" alt="Terraform"/>
-  </p>
-  </div>
-<hr>
+<h2> Hi, I'm Pedro Maia!</h2>
+<img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" width="230">
+<p><em>Graduando em Analise e Desenvolvimento de Sistemas pelo<a href="https://www.mackenzie.br/"> Mackienzie</a></br>DevOps/Sre na<a href="https://www.ivoryit.com.br/"> Ivory IT</a> 
+</em></p>
+
+[![Medium: @Pedroasmaia](https://img.shields.io/badge/Medium-%40pedroasmaia-lightgrey)](https://pedroasmaia.medium.com/)
+[![Linkedin: pedroasmaia](https://img.shields.io/badge/-pedroasmaia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroasmaia/)](https://www.linkedin.com/in/pedroasmaia/)
+[![GitHub pedroasmaia](https://img.shields.io/github/followers/Pedroasmaia?label=follow&style=social)](https://github.com/Pedroasmaia)
+
+### Sobre mim:
+
+```python
+def pedro():
+   code = ["HTML","CSS","Python"]
+   tools = ["Azure DevOps","Grafana","Terraform"]
+   providers = {"Azure" : {
+      "Microservices",
+      "SQL"
+   }}
+   certificates = {
+      "Microsoft" : {
+         "AZ-900" : "Azure Fundamentals"
+      }
+   }
+   challenge = "Learn C# with focus in Web Develop" +
+   "Be approved in exam AZ-104 |  Azure Administrator Associate"
+
+```
+
+---
