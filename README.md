@@ -26,5 +26,8 @@ def pedro():
    "Be approved in exam AZ-104 |  Azure Administrator Associate"
 
 ```
-
+<div align="">
+  <a href="https://github.com/GeovanniSantos1">
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasmaia&layout=compact&langs_count=15"/>
+</div>
 ---
