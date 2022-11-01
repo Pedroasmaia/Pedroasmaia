@@ -1,4 +1,4 @@
-<h2> Hi, I'm Pedro Maia!</h2>
+<h2>👋🏻Hi, I'm Pedro Maia!</h2>
 <img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" width="230">
 <p><em>Graduando em Analise e Desenvolvimento de Sistemas pelo<a href="https://www.mackenzie.br/"> Mackienzie</a></br>DevOps/Sre na<a href="https://www.ivoryit.com.br/"> Ivory IT</a> 
 </em></p>
@@ -33,4 +33,5 @@ def pedro():
   <a href="https://github.com/pedroasmaia">
   <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasmaia&layout=compact&langs_count=15&theme=github_dark"/>
 </div>
+
 ---
