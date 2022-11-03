@@ -15,8 +15,9 @@ def pedro():
    code = ["HTML","CSS","Python"]
    tools = ["Azure DevOps","Grafana","Terraform"]
    providers = {"Azure" : {
-      "Microservices",
-      "SQL"
+      "IaaS",
+      "PaaS",
+      "Saas"
    }}
    certificates = {
       "Microsoft" : {
