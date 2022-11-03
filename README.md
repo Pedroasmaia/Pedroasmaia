@@ -32,10 +32,8 @@ def pedro():
 
 <div align="">
   <a href="https://github.com/pedroasmaia">
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasmaia&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" width="230">
 </div>
 
 ---
