@@ -21,7 +21,8 @@ def pedro():
    }}
    certificates = {
       "Microsoft" : {
-         "AZ-900" : "Azure Fundamentals"
+         "AZ-900" : "Azure Fundamentals",
+         "SC-900" : "Microsoft Security, Compliance, and Identity Fundamentals"
       }
    }
    challenge = "Learn C# with focus in Web Develop" +
