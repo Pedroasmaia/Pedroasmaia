@@ -30,8 +30,6 @@ def pedro():
 
 ```
 
-### :notebook: Open the wiki in repositories to see my notes about each one.
-
 <div align="">
   <a href="https://github.com/pedroasmaia">
   
