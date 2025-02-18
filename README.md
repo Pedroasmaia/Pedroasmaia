@@ -26,8 +26,7 @@ def pedro():
          "AZ-104" : "Azure Administrator Associate"
       }
    }
-   challenge = "Learn C# with focus in Web Develop" +
-   "Be approved in exam AZ-400 |   Designing and Implementing Microsoft DevOps Solutions"
+   challenge = "Be approved in exam AZ-400 |   Designing and Implementing Microsoft DevOps Solutions"
 
 ```
 
