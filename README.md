@@ -1,6 +1,9 @@
-<h2>👋🏻Hi, I'm Pedro Maia!</h2>
+<h2>👋🏻 Hi, I'm Pedro Maia!</h2>
 <img align='right' src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" width="230">
-<p><em>Graduando em Analise e Desenvolvimento de Sistemas pelo<a href="https://www.mackenzie.br/"> Mackienzie</a></br>DevOps/Sre na<a href="https://www.ivoryit.com.br/"> Ivory IT</a> 
+
+<p><em>
+DevSecOps Engineer at Sicoob Credicom<br>
+Building secure, reliable and scalable cloud platforms with Azure, automation and Infrastructure as Code.
 </em></p>
 
 [![Medium: @Pedroasmaia](https://img.shields.io/badge/Medium-%40pedroasmaia-lightgrey)](https://pedroasmaia.medium.com/)
@@ -12,28 +15,53 @@
 
 ```python
 def pedro():
-   code = ["HTML","CSS","Python"]
-   tools = ["Azure DevOps","Grafana","Terraform"]
-   providers = {"Azure" : {
-      "IaaS",
-      "PaaS",
-      "Saas"
-   }}
-   certificates = {
-      "Microsoft" : {
-         "AZ-900" : "Azure Fundamentals",
-         "SC-900" : "Microsoft Security, Compliance, and Identity Fundamentals",
-         "AZ-104" : "Azure Administrator Associate"
+   role = "DevSecOps Engineer"
+
+   code = [
+      "Python",
+      "C#",
+      "Terraform",
+      "Bicep",
+      "YAML"
+   ]
+
+   tools = [
+      "Azure DevOps",
+      "Docker",
+      "Grafana",
+      "Qodana",
+      "Black Duck",
+      "SonarQube"
+   ]
+
+   practices = [
+      "CI/CD",
+      "DevSecOps",
+      "Infrastructure as Code",
+      "Cloud Governance",
+      "Observability",
+      "FinOps"
+   ]
+
+   cloud = {
+      "Azure": {
+         "App Service",
+         "Functions",
+         "Front Door",
+         "Application Gateway",
+         "Container Registry",
+         "SQL",
+         "Storage",
+         "Monitor"
       }
    }
-   challenge = "Be approved in exam AZ-400 |   Designing and Implementing Microsoft DevOps Solutions"
 
-```
+   certificates = {
+      "Microsoft": {
+         "AZ-900": "Azure Fundamentals",
+         "SC-900": "Security, Compliance, and Identity Fundamentals",
+         "AZ-104": "Azure Administrator Associate"
+      }
+   }
 
-<div align="">
-  <a href="https://github.com/pedroasmaia">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroasmaia&theme=github_dark)
-</div>
-
----
+   current_challenge = "AZ-305 | Designing Microsoft Azure Infrastructure Solutions"
